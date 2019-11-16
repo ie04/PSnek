@@ -1,2 +1,2 @@
-# PSnek
+# PySnek
 Python Snake Game
